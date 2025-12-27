@@ -66,13 +66,6 @@ I am a passionate **Mobile Application Developer** and **Cybersecurity Enthusias
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="mdnast's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
 ---
 <div align="center">
   <i>"Code securely, build passionately."</i>
