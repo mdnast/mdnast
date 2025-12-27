@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=33FFCC&multiline=false&width=600&height=60&lines=🚀+Mobile+Developer+(Flutter%2FAndroid);🛡️+Cybersecurity+Enthusiast;🔥+CompTIA+Security%2B+Certified;🏆+TOP+3+BTEC+Best+Coder"  />
+   />
   </a>
 </div>
 
