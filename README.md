@@ -1,102 +1,88 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=280&section=header&text=Hello%20World&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Lê%20Công%20Đạt%20(mdnast)&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Lê%20Công%20Đạt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=F27121&center=true&vCenter=true&width=550&lines=🚀+Mobile+Developer+%7C+Security+Enthusiast;🛡️+Building+Secure+Apps+with+Flutter;🔥+Passionate+about+AI+%26+Cybersecurity;🏆+TOP+3+BTEC+Best+Coder;Welcome+to+my+digital+space!+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=33FFCC&multiline=false&width=600&height=60&lines=🚀+Mobile+Developer+(Flutter%2FAndroid);🛡️+Cybersecurity+Enthusiast;🔥+CompTIA+Security%2B+Certified;🏆+TOP+3+BTEC+Best+Coder" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="mailto:datlecong156@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/>
+  </a>
+  <a href="https://github.com/mdnast">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="600">
-        <h3>⚡ About Me</h3>
-        <ul align="left">
-          <li>📍 From: <b>Hanoi, Vietnam</b> 🇻🇳</li>
-          <li>🎓 Education: <b>BTEC FPT (GPA: 3.4/4.0)</b></li>
-          <li>🔭 Working on: <b>WardMail (AI Phishing Detection)</b></li>
-          <li>🛡️ Certification: <b>CompTIA Security+ (SY0-701)</b></li>
-          <li>🌱 Learning: <b>Penetration Testing & System Architecture</b></li>
-          <li>💬 Philosophy: <i>"Secure by Design, User by Heart"</i></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right">
+  <div align="left" style="display: inline-block; width: 60%;">
+    <h3>⚡ About Me</h3>
+    <ul>
+      <li>🎓 <b>Final-year Student @ BTEC FPT</b> (GPA: 3.4/4.0)</li>
+      <li>🔭 Creator of: <b>WardMail (AI Security App)</b></li>
+      <li>🌱 Mastering: <b>Mobile Security & System Architecture</b></li>
+      <li>🛡️ Certifications: <b>CompTIA Security+ (SY0-701)</b></li>
+      <li>💬 Ask me about: <b>Flutter, Android, IoT, Botnet, Phishing</b></li>
+      <li>⚡ Fun fact: <i>"I check logs more than I check social media."</i></li>
+    </ul>
+  </div>
 </div>
+
+<br clear="all"/>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-
+<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 <div align="center">
-  <p><i>My weapons of choice for building things</i></p>
-  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,python,cs,js,php&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,dart,python,cs,php,js&theme=dark" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=flutter,android,firebase,supabase,mysql,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter,android,firebase,supabase,mysql,sqlite&theme=dark" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,githubactions,nodejs,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,kali,postman,figma&theme=dark" />
   </a>
 </div>
 
 ---
 
-### 🌟 Featured Projects
+<h3 align="center">🌟 Featured Projects</h3>
 
-<div align="center">
-
-| **Project** | **Description** | **Tech Stack** |
+| **Project Name** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
-| **🛡️ WardMail**<br>*(Capstone Project)* | **AI Phishing Detection App.**<br>Mobile app that uses AI to scan emails, features biometric login & bot protection. | `Flutter` `Dart` `Firebase`<br>`AI/ML` `Biometrics` |
-| **🌿 Hachi App**<br>*(Commercial)* | **Smart Agriculture Solution.**<br>Comprehensive farm management with ChatBot AI, GPS tracking & E-commerce. | `Flutter` `Supabase` `LLM`<br>`WordPress` `GPS` |
-| **💰 Expense Mgr**<br>*(Android Native)* | **Personal Finance Tool.**<br>Native Android app with MVC architecture and Gemini API integration for smart insights. | `Java` `Android` `SQLite`<br>`Gemini API` |
-
-</div>
+| **🛡️ WardMail**<br>*(Capstone Project)* | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AI](https://img.shields.io/badge/AI-Security-red?style=flat-square) | **Lead Dev.** App phát hiện email lừa đảo dùng AI. Tích hợp đăng nhập vân tay/FaceID và chống Bot. |
+| **🌿 Hachi App**<br>*(Commercial)* | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Mega-blue?style=flat-square) | **Mobile Dev.** Hệ thống nông nghiệp thông minh. ChatBot AI tư vấn, định vị GPS vườn, tích hợp Shop. |
+| **💰 Expense Mgr**<br>*(Android)* | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-API-8E75B2?style=flat-square) | **Developer.** App quản lý chi tiêu Android Native. Tích hợp Gemini API phân tích tài chính. |
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdnast&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnast&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnast&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnast&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnast&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnast&theme=tokyonight&hide_border=true&background=000000" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnast&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="streak graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=100&section=footer&text=Code%20Securely,%20Build%20Passionately&fontSize=25&fontColor=fff&animation=fadeIn"/>
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,100:8A2387&height=120&section=footer"/>
-  <br/>
-  <img src="https://kom
