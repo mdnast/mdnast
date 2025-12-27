@@ -1,12 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Lê%20Công%20Đạt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
-   />
-  </a>
-</div>
-
 <div align="center">
   <a href="mailto:datlecong156@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/>
